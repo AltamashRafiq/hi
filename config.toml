@@ -72,7 +72,7 @@ URL = "s3://altamash-hi/?region=us-east-1" #your bucket here
     "Please enjoy the rest of my website."]
 
     # Link to your resume, place your PDF in the /static folder
-    resume = "resume.pdf"
+    resume = "Resume_Altamash_Rafiq.pdf"
 
 [params.process]
     enable = true
