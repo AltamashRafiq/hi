@@ -5,4 +5,4 @@ deploy:
 	hugo -D
 	hugo deploy
 	
-all: clean deploy
+all: deploy clean
