@@ -44,7 +44,7 @@ URL = "s3://altamash-hi/?region=us-east-1" #your bucket here
     github = "https://github.com/AltamashRafiq"
     
     # LinkedIn URL
-    linkedin = ""
+    linkedin = "https://www.linkedin.com/in/altamashrafiq/"
     
     # Email
     email = "altamashrafiq@gmail.com"
@@ -65,19 +65,17 @@ URL = "s3://altamash-hi/?region=us-east-1" #your bucket here
     # Each element in this array makes a new <p> tag
     # You can write this text in markdown
     hero_right = [
-    "__This is a bold paragraph__ and it's amazing.",
-    "This is my [GitHub](https://github.com/xaviablaza). It's pretty cool.",
-    "I also do a lot of coding if you didn't already know.",
-    "I study at XYZ University and I expect to graduate in 2050.",
-    "Please enjoy the rest of my website."]
+    "Welcome to my personal website! I'm Altamash, a data scientist at __2nd Order Solutions__. I use cutting edge methods in machine learning and analytics to deliver impactful credit risk and lending solutions for financial institutions, banks, and fintechs.",
+    "Originally from Pakistan, I came to the US to pursue both my Bachelor's and Master's degrees at __Duke University__. At Duke, I fell in love with statistical modeling and machine learning when I saw firsthand their potential for bringing transformational change in our world. Over the years, I have had many amazing opportunities to learn and grow as a data scientist through projects in cybersecurity, fraud detection, infectious disease research, and more.",
+    "For an in depth view into my work, check out my featured projects below or visit my [GitHub](https://github.com/AltamashRafiq). I love to share ideas and connect with professionals in all data science adjacent fields so feel free to email me if you ever want to chat!"]
 
     # Link to your resume, place your PDF in the /static folder
     resume = "Resume_Altamash_Rafiq.pdf"
 
 [params.process]
     enable = true
-    title = "My Process"
-    subtitle = "Full Process Design"
+    title = "My Skills"
+    #subtitle = "Data Science Specific"
 
 [params.case_studies]
     enable = true
