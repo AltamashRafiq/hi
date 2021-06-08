@@ -60,12 +60,12 @@ URL = "s3://altamash-hi/?region=us-east-1" #your bucket here
 
     # Place this image in the static/img folder
     avatar = "avatar.jpg"
-    subtitle = "Hi! I'm Altamash, a data scientist from Pakistan."
+    subtitle = "Hi! I'm Altamash, a Data Scientist and Machine Learning Engineer."
 
     # Each element in this array makes a new <p> tag
     # You can write this text in markdown
     hero_right = [
-    "**This is a bold paragraph** and it's amazing.",
+    "__This is a bold paragraph__ and it's amazing.",
     "This is my [GitHub](https://github.com/xaviablaza). It's pretty cool.",
     "I also do a lot of coding if you didn't already know.",
     "I study at XYZ University and I expect to graduate in 2050.",
