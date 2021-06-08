@@ -1,3 +1,8 @@
 clean:
-	echo "Deleting generated HTML files!"
 	rm -rf public/
+
+deploy:
+	hugo -D
+	hugo deploy
+	
+all: clean deploy
