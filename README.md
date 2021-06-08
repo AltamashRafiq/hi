@@ -7,7 +7,7 @@ This website was built using hugo on AWS Cloud9. I've also set it up for continu
 and deployment - see __Makefile__ and __config.toml__. The website is deployed as a static webpage
 on AWS S3.
 
-Link: http://altamash-hi.s3-website-us-east-1.amazonaws.com/
+Link: http://www.altamashrafiq.com.s3-website-us-east-1.amazonaws.com/
 
 ## Projects
 

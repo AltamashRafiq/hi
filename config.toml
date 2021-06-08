@@ -1,4 +1,4 @@
-baseURL = "http://altamash-hi.s3-website-us-east-1.amazonaws.com/"
+baseURL = "http://www.altamashrafiq.com.s3-website-us-east-1.amazonaws.com/"
 languageCode = "en-us"
 title = "My Portfolio Website"
 theme = "hugo-lodi-theme"
@@ -7,7 +7,7 @@ theme = "hugo-lodi-theme"
 [deployment.targets]
 
 name = "awsbucket"
-URL = "s3://altamash-hi/?region=us-east-1" #your bucket here
+URL = "s3://www.altamashrafiq.com/?region=us-east-1" #your bucket here
 
 [params]
     # head theme color
@@ -79,8 +79,8 @@ URL = "s3://altamash-hi/?region=us-east-1" #your bucket here
 
 [params.case_studies]
     enable = true
-    title = "Case Studies"
-    subtitle = "Selected Works"
+    title = "Featured Projects"
+    #subtitle = "Selected Works"
 
 [params.footer]
     enable = true
